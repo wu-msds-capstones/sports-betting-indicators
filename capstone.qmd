@@ -1,9 +1,10 @@
 ---
+lightbox: auto
 title: "Capstone Project"
-subtitle: Subtitle
+subtitle: Sports Betting And Census Data
 authors:
-  - Bob
-  - Jane
+  - Tatum Good
+  - Ruby Thompson
 bibliography: references.bib
 title-block-banner: true
 format: 
